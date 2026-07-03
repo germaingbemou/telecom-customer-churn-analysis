@@ -166,8 +166,6 @@ Based on the analysis, the company should:
 
 
 
-\## Project Files
-
 ## Project Files
 
 - `dashboard/telecom_churn_dashboard.twbx` — Tableau packaged workbook

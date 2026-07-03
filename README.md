@@ -162,21 +162,18 @@ Based on the analysis, the company should:
 
 
 
-!\[Dashboard Preview](images/dashboard\_preview.png)
+![Telecom Customer Churn Dashboard](./images/dashboard_preview.png)
 
 
 
 \## Project Files
 
+## Project Files
 
-
-\* `dashboard/telecom\_churn\_dashboard.twbx` — Tableau packaged workbook
-
-\* `dashboard/dashboard\_screenshot.png` — Final dashboard image
-
-\* `data/` — Source dataset files
-
-\* `images/dashboard\_preview.png` — Dashboard preview for GitHub README
+- `dashboard/telecom_churn_dashboard.twbx` — Tableau packaged workbook
+- `dashboard/dashboard_preview.png` — Final dashboard image
+- `data/` — Source dataset files
+- `images/dashboard_preview.png` — Dashboard preview for GitHub README
 
 
 

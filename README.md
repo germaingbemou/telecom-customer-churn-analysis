@@ -1,6 +1,8 @@
 \# Telecom Customer Churn Analysis Dashboard
 
-View the interactive dashboard on Tableau Public: [Telecom Customer Churn Dashboard] https://public.tableau.com/views/telecom_churn_dashboard/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Live Dashboard
+
+View the interactive dashboard on Tableau Public: [Telecom Customer Churn Dashboard](https://public.tableau.com/views/telecom_churn_dashboard/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 \## Project Overview
 
